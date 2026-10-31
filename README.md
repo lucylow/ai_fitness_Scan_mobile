@@ -2,6 +2,8 @@
 
 ### AI-Powered, Suitless 3D Fitness Scanning, Personalized Workouts, Multimodal Visual Intelligence & Adaptive Coaching
 
+![](https://github.com/lucylow/ai_fitness_Scan_mobile/blob/main/FitScan%20AI%20Pitchdeck.jpg?raw=true)
+
 > **Understand your movement. Visualize your progress. Train smarter.**
 
 FitScan AI is a React Native fitness application designed around a **suitless computer-vision scanning experience**.
