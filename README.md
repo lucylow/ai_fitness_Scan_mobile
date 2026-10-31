@@ -32,6 +32,8 @@ The platform combines:
 
 FitScan AI is designed as a **fitness product**, not as a medical diagnostic platform. Measurements and visual estimates should be treated as estimates whose reliability depends on capture quality, device conditions, lighting, pose, camera placement, and the underlying computer-vision models.
 
+![](https://github.com/lucylow/ai_fitness_Scan_mobile/blob/main/slide5_app_demo.png?raw=true)
+
 ---
 
 # Table of Contents
